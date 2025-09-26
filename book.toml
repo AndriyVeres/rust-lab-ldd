@@ -1,0 +1,5 @@
+[book]
+authors = ["Andriy Veres"]
+language = "en"
+src = "src"
+title = "Linux Device Drivers in Rust"
