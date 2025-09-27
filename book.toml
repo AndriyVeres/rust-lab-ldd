@@ -3,3 +3,6 @@ authors = ["Andriy Veres"]
 language = "en"
 src = "src"
 title = "Linux Device Drivers in Rust"
+
+[output.html]
+git-repository-url = "https://github.com/AndriyVeres/rust-lab-ldd"
